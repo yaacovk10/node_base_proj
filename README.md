@@ -11,3 +11,4 @@ the firstName and lastName variables are declared inside the rl.question callbac
 read from csv and print it into terminal
 
 try to fix git 
+3 
