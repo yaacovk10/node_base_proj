@@ -1,3 +1,6 @@
+# lesson
+[2024.1.10_2_node.js](https://docs.google.com/document/d/1PM4EBo3pDSNZBGdYcfOlquwXF_uPSMY_lj6rQmGs5YM/edit)
+
 # 1st example
 write number from 1 to 10 into a file
 fs.createWriteStream() is more efficient than fs.appendFile()
